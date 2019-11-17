@@ -13,6 +13,6 @@
 
 ## * 深度學習(CNN & RNN)
 
-# * TensorFlow
+## * TensorFlow
 
-# * 現代深度學習技術導論
+## * 現代深度學習技術導論
